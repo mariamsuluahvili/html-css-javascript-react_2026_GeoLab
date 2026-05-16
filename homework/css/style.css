@@ -1,0 +1,42 @@
+body {
+  background-color: #f5f5f5;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.main-card{
+  width: 330px;
+  height: 430px;
+  background-color: #fff;
+  border-radius: 10px;
+  margin: 100px auto;
+  padding:20px;
+}
+.main-image{
+    width: 330px;
+  height: 160px;
+}
+.circle-image{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.name{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 15px;
+}
+.name{
+    color:black;
+}
+p{
+    font-size: 16px;
+    line-height: 165%;
+    font-weight: 400; 
+    color:#71747B;
+}
+h2{
+    margin-bottom:250px;
+    color:rgb(52, 162, 206);
+}
